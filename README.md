@@ -1,6 +1,6 @@
 # miniLyricist
 
-After learning Andrej Karpathy's video about GPT, I made a GPT about Song Ci. 
+After learning Andrej Karpathy's video about GPT, I made a Song Ci GPT. 
 
 ![miniLyricist](./assets/miniLyricist.gif)
 
